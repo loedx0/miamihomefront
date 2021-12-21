@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>79638CDF-02CA-4753-A7AB-8D63F2C70CDB</title>
+    <defs>
+        <path d="M10,0 C15.5228475,0 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 Z M11.8394968,7.28149331 L9.10984537,10.1229676 L8.16041502,9.13478123 C7.70145054,8.65704225 6.95717112,8.65704225 6.49812828,9.13478123 C6.03908544,9.61252021 6.03908544,10.3872453 6.49812828,10.8650658 L8.27874119,12.7185169 C8.49917265,12.9480469 8.79812253,13.0769231 9.10992374,13.0769231 C9.42172494,13.0769231 9.72067482,12.9480469 9.94110628,12.7185169 L13.5019403,9.01185949 C13.9609048,8.53403894 13.9609048,7.75939542 13.5018619,7.28157488 C13.0427407,6.80350963 12.298618,6.80367277 11.8394968,7.28149331 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.0-Home" transform="translate(-557.000000, -1302.000000)">
+            <g id="Group-13" transform="translate(552.000000, 1195.000000)">
+                <g id="Group-11" transform="translate(0.000000, 102.000000)">
+                    <g id="Color" transform="translate(5.333333, 5.333333)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="icon-CheckList2" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
