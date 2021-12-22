@@ -1,7 +1,7 @@
 {
-  "name": "orlando-nft",
-  "short_name": "orlando-nft",
-  "description": "```bash\r # install dependencies\r $ npm install",
+  "name": "TitleDAO",
+  "short_name": "MH",
+  "description": "We’re airdropping a condo in Miami. TitleDAO is building NFT titles for property. Help us do it.",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.a97762.png",
@@ -46,8 +46,10 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/?standalone=true",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "lang": "en"
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "scope": "/"
 }
